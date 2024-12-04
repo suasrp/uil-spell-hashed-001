@@ -1,4 +1,4 @@
-import streamlit as st
+
 import streamlit_authenticator as stauth
 
 # Title of the app
